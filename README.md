@@ -14,6 +14,7 @@ The application is deployed on Netlify. You can access it [here](https://booking
 - React.js
 - Vite
 - Redux
+- Tailwind CSS
 - VS Code
 
 ## Features Implemented

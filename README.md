@@ -47,3 +47,44 @@ The project has been implemented with the following features:
 - Form validation for capturing accurate details.
 - Interactive calendar with previous booking details.
 
+## Screenshots
+
+### Step 1
+![Step 1](public/screenshots/step-1.JPG)
+
+### Step 2
+![Step 2](public/screenshots/step-2.JPG)
+
+### Step 3
+![Step 3](public/screenshots/step-3.JPG)
+
+### Step 4
+![Step 4](public/screenshots/step-4.JPG)
+
+### Step 5
+![Step 5](public/screenshots/step-5.JPG)
+
+### Step 6
+![Step 6](public/screenshots/step-6.JPG)
+
+### Step 7
+![Step 7](public/screenshots/step-7.JPG)
+
+### Step 8
+![Step 8](public/screenshots/step-8.JPG)
+
+### Step 9
+![Step 9](public/screenshots/step-9.JPG)
+
+### Step 10
+![Step 11](public/screenshots/step-11.JPG)
+
+### Step 11
+![Step 12](public/screenshots/step-12.JPG)
+
+### Step 12
+![Step 13](public/screenshots/step-13.JPG)
+
+### Step 13
+![Step 14](public/screenshots/step-14.JPG)
+

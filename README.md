@@ -4,6 +4,11 @@
 
 This project involves the creation of a Booking App with an interactive calendar to showcase venue availability. The app is built using React.js, Vite, and Redux. It features a user-friendly calendar display, booking functionality for half-day slots, and a simple booking form with essential details. The booking procedure is streamlined with a popup window for confirming reservations.
 
+## Deployment
+
+The application is deployed on Netlify. You can access it [here](https://booking-application-with-calendar.netlify.app/).
+
+
 ## Tech Stack
 
 - React.js
